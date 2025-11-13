@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: Muhammed AHMED
  * Ogrenci No: 25051604
- * Tarih: [TARIHI BURAYA YAZIN]
+ * Tarih: 13.11.2025
  * Aciklama: Gorev 2 - Fizik Formulu Asistani
  *
  * Bu program temel fizik formullerini kullanarak
