@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: Muhammed AHMED
  * Ogrenci No: 25051604
- * Tarih: [TARIHI BURAYA YAZIN]
+ * Tarih: 13.11.2025
  * Aciklama: Gorev 3 - E-Ticaret Sepet Hesaplayici
  *
  * Bu program 3 adet urunun sepet tutarini
